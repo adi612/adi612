@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Lokre</h1>
 <h3 align="center">Java Developer | Spring Boot Backend Developer | Learner</h3>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=36BCF7&width=600&lines=Java+Developer;Spring+Boot+Backend+Developer;Always+Learning+New+Things;Love+to+Build+Cool+Projects" alt="Typing SVG" />
-</p>
-
 <!-- Coding GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding" />
@@ -13,21 +8,31 @@
 
 ---
 
-- 🔭 I’m currently working on **Spring Boot projects with JWT Authentication, API Gateway, Redis Cache, and ELK Stack for monitoring.**  
+### 🚀 About Me  
 
-- 🌱 I’m currently learning **advanced Spring Boot features and modern Java practices.**  
+💻 **Currently Working On:**  
+Building Spring Boot applications with **JWT Authentication, API Gateway, Redis Cache, and ELK Stack for monitoring**.  
 
-- 👯 I’m looking to collaborate on **Java + Spring Boot and open-source contributions.**  
+📘 **Currently Learning:**  
+Exploring **modern Java practices** and advanced features in **Spring Boot**.  
 
-- 🤝 I’m looking for help with **building advanced Spring Boot applications.**  
+🤝 **Looking to Collaborate On:**  
+Exciting projects in **Java + Spring Boot** and **open-source contributions**.  
 
-- 💬 Ask me about **Spring Boot projects, JPA, and backend development in Java.**  
+🛠️ **Need Help With:**  
+Improving and scaling **Spring Boot applications**.  
 
-- 📫 How to reach me **adityalokreclg@gmail.com**  
+💬 **Ask Me About:**  
+Backend development with **Java, Spring Boot, REST APIs, and JPA**.  
 
-- 📄 Know about my experiences [Resume](resume link)  
+📩 **How to Reach Me:**  
+**adityalokreclg@gmail.com**  
 
-- ⚡ Fun fact **Whales sleep with half their brain at a time so they can keep swimming 💤🐋**  
+📄 **Know About My Experiences:**  
+[My Resume](resume link)  
+
+⚡ **Fun Fact:**  
+*Whales sleep with half their brain at a time so they can keep swimming* 💤🐋  
 
 ---
 
