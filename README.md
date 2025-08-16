@@ -1,20 +1,58 @@
-<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48"/> Hi, I'm Aditya Lokre <br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&width=410&height=70&lines=Java+%7C+Spring+Boot+Developer;Learning+Microservices%2C+Distributed+Systems;Backend+Specialist;Open+Source+Contributor;Tech+Enthusiast!" alt="Typing animation" /> </h1> <h3 align="center"> Java Developer | Spring Boot Backend | Distributed Systems | Open Source </h3> <p align="center"> <img src="https://media.giphy.com/media/4H3Ii8G1bkP0k/giphy.gif" height="150"/> <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height="150"/> <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" height="150"/> </p> <br> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=18A2CE&background=00000000&width=400&height=30&lines=Welcome+to+my+animated+space!" /> </div>
-🔭 Currently working on Spring Boot Microservices with JWT Authentication, API Gateway, Eureka, Redis Cache, and ELK Stack monitoring
+<h1 align="center">Hi 👋, I'm Aditya Lokre</h1>
+<h3 align="center">Java Developer | Spring Boot Backend Developer | Learner |</h3>
 
-🌱 Currently learning advanced Spring Boot features & modern Java practices
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&width=600&lines=Java+Developer;Spring+Boot+Backend+Developer;Learning+%26+Building+Everyday;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
-👯 Seeking collaborations on Java + Spring Boot and open-source distributed systems
+---
 
-🤝 Open to help and mentorship on advanced Spring Boot applications
+- 🔭 I’m currently working on **Spring Boot projects with JWT Authentication, API Gateway, Redis Cache, and ELK Stack for monitoring.**  
 
-💬 Ask me about Spring Boot, JPA, Java backend development
+- 🌱 I’m currently learning **advanced Spring Boot features and modern Java practices.**  
 
-📫 Reach out: adityalokreclg@gmail.com
+- 👯 I’m looking to collaborate on **Java + Spring Boot and open-source contributions.**  
 
-📄 My experiences: [resume link](resume link)
+- 🤝 I’m looking for help with **building advanced Spring Boot applications.**  
 
-⚡ Fun fact: Whales sleep with half their brain at a time! 💤🐋
+- 💬 Ask me about **Spring Boot projects, JPA, and backend development in Java.**  
 
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.linkedin.com/in/aditya-lokre-440597280/" target="_blank"> <img src="https://media.giphy.com/media/wloE2A2pjpkisZJ1fo/giphy.gif" width="40" height="40" alt="LinkedIn"/> </a> <a href="https://leetcode.com/u/notadi6122/" target="_blank"> <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6zz6/giphy.gif" width="40" height="40" alt="LeetCode"/> </a> </p>
-<h3 align="left">Languages & Tools</h3> <p align="left"> <img src="https://media.giphy.com/media/SUe0jMwXQX1ekkNcHK/giphy.gif" width="40" height="40" title="Java"/> <img src="https://media.giphy.com/media/kVb1L3I6dI56c3tncB/giphy.gif" width="40" height="40" title="Spring Boot"/> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3m6Y/giphy.gif" width="40" height="40" title="Docker"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" title="React"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" title="MongoDB"/> <img src="https://media.giphy.com/media/SyG5v0pU9g0cM/giphy.gif" width="40" height="40" title="HTML"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" title="Spring"/> </p>
-<h3 align="center">Motivational Coding Quote</h3> <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="80"/> <br> <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i> </p>
+- 📫 How to reach me **adityalokreclg@gmail.com**  
+
+- 📄 Know about my experiences [Resume](resume link)  
+
+- ⚡ Fun fact **Whales sleep with half their brain at a time so they can keep swimming 💤🐋**  
+
+---
+
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aditya-lokre-440597280" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/notadi6122/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+</p>
+
+---
+
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> 
+</p>
+
+---
+
+<h3 align="center">🔥 GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityalokre&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityalokre&theme=radical" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityalokre&theme=react-dark" alt="activity graph" />
+</p>
