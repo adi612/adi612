@@ -31,34 +31,39 @@ Improving and scaling **Spring Boot applications**.
 Backend development with **Java, Spring Boot, REST APIs, and JPA**.  
 
 📩 **How to Reach Me:**  
-**adityalokreclg@gmail.com**  
-
-📄 **Know About My Experiences:**  
-[My Resume](resume link)  
+**adityalokreclg@gmail.com**   
 
 ⚡ **Fun Fact:**  
 *Whales sleep with half their brain at a time so they can keep swimming* 💤🐋  
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
+<h3 align="center">🌐 Connect with me</h3>
+<p align="center">
 <a href="https://linkedin.com/in/aditya-lokre-440597280" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/notadi6122/" target="blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
+<a href="mailto:adityalokreclg@gmail.com" target="blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="center">🛠️ Languages and Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,react,js,html,css,docker,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,postman,docker,git,github,html,css,js,react,linux" />
 </p>
 
-<!-- Fun Dev GIF -->
+---
+
+<h3 align="center">🔥 Fun Zone</h3>
 <p align="center">
+
+  <!-- Funny Coding GIF -->
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Work hard" />
+
 </p>
