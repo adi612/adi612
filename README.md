@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Lokre</h1>
-<h3 align="center">Java Developer | Spring Boot Backend Developer | Distributed Systems & Cloud Learner Spring Boot Developer | Exploring Microservices, ELK, and Security Full-Stack Java Enthusiast | Building Real-Time & Scalable Apps</h3>
+<h3 align="center">Java Developer | Spring Boot Backend Developer |  Learner Spring Boot Developer |</h3>
 
 - 🔭 I’m currently working on **Spring Boot Microservices with JWT Authentication, API Gateway, Eureka, Redis Cache, and ELK Stack for monitoring.**
 
